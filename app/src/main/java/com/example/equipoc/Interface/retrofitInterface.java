@@ -8,6 +8,7 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Url;
 
+//para poder hacer las llamadas de red Y obtener los resultados en json que se usaran
 public interface retrofitInterface {
 
     @GET

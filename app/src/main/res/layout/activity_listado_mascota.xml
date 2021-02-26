@@ -35,7 +35,7 @@
         app:layout_constraintVertical_bias="0.127" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName3"
+        android:id="@+id/editCtextb"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -61,6 +61,7 @@
         app:layout_constraintVertical_bias="0.23" />
 
     <ListView
+        android:id="@+id/LvCmascotas"
         android:layout_width="413dp"
         android:layout_height="397dp"
         app:layout_constraintBottom_toBottomOf="parent"
